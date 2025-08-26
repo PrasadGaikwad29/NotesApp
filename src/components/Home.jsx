@@ -40,7 +40,7 @@ const Home = () => {
 
   return (
     <div className=" flex justify-center items-center min-h-screen px-4 ">
-      <div className="w-full max-w-4xl bg-gray-900 shadow-2xl border border-gray-800 rounded-2xl p-6">
+      <div className=" mt-[-50px] w-full max-w-4xl bg-gray-900 shadow-2xl border border-gray-800 rounded-2xl p-6">
         {/* Title like a notebook heading */}
         <input
           className=" w-full mb-6 p-3 text-2xl font-semibold rounded-lg bg-transparent border-b-2 border-gray-700 text-gray-100 placeholder-gray-500 focus:outline-none focus:border-blue-500"
